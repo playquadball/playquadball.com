@@ -50,9 +50,9 @@ The keeper has special powers while in their zone:
 ## Game Flow
 
 ### Starting Play
-- All players line up behind their keeper zone lines
+- Players line up at designated positions on the starting sideline and volleyball runner starting line
 - Three dodgeballs and one volleyball are placed at designated positions
-- On the whistle, players race to collect balls and begin play
+- On the Head Referee's command "sticks up", players race to collect balls and begin play
 
 ### The Seeker Floor
 - First **20 minutes** of game time
@@ -78,12 +78,12 @@ Common penalties include:
 
 - **Back-to-Hoops** - Minor infractions, player resets
 - **Blue Card** - Procedural fouls, 1-minute penalty
-- **Yellow Card** - Contact fouls, 1-minute penalty  
-- **Red Card** - Serious fouls, ejection from game
+- **Yellow Card** - Various fouls including contact, procedural violations, and rule infractions, 1-minute penalty  
+- **Red Card** - Serious fouls, separate from ejection (which is a distinct penalty type)
 
 ## Time Rules
 
-- **No game clock** - games end only when flag is caught
+- **Game clock used** - tracks the 20-minute seeker floor, games end when flag is caught
 - **20-minute seeker floor** - measured in game time (clock stops during stoppages)
 - **Penalty time** - continues to run during most stoppages
 - **Substitutions** - allowed on-the-fly during live play

@@ -9,8 +9,8 @@ All players must have the following to participate:
 
 - **Stick**
   - Typically a PVC pipe, broom handle, or similar cylindrical object
-  - Length: 81-107 cm (32-42 inches)  
-  - Diameter: Must allow comfortable grip
+  - Length: 98-102 cm  
+  - Diameter: 25-35 millimeters
   - Must be held between legs at all times during play
 
 - **Mouthguard**
@@ -25,7 +25,7 @@ All players must have the following to participate:
 
 - **Team Jersey**
   - Each player must have a unique number (0-99)
-  - Numbers must be clearly visible front and back
+  - Numbers must be clearly visible on the back
   - Team colors should be distinct from opponents
 
 ### Recommended Equipment
@@ -84,7 +84,7 @@ All players must have the following to participate:
 
 ### Safety Requirements
 - All equipment must be approved by referees before play
-- Dangerous or illegal equipment results in ejection until corrected
+- Penalties for illegal equipment vary based on the violation, ranging from temporary removal from play to carded offenses and possible game ejection
 - Equipment modifications for medical/religious reasons require pre-approval
 
 ### Equipment Checks
@@ -94,7 +94,7 @@ All players must have the following to participate:
 
 ### Replacement Equipment
 - Teams should bring backup equipment (extra sticks, mouthguards)
-- Tournament organizers typically provide balls and hoops
+- Tournament organizers typically provide balls, hoops, and at least 10 equal sticks for both teams
 - Players responsible for personal protective equipment
 
 ## Getting Started: Budget Equipment List
@@ -102,7 +102,7 @@ All players must have the following to participate:
 For new players wanting to try quadball:
 
 **Essential ($30-50)**
-- PVC pipe or broom handle (stick)
+- Rigid plastic pole, such as PVC pipe (stick)
 - Basic mouthguard
 - Colored headband/bandana
 - Athletic clothing with number

@@ -20,7 +20,7 @@ Quadball is played on a rectangular field (33m x 60m) with:
 ## What Makes Quadball Unique
 
 ### Gender Inclusivity
-One of quadball's defining features is the **gender maximum rule**: no team can have more than four players of the same gender on the field at once (three during seeker play and overtime). This rule promotes gender inclusivity and creates strategic depth.
+One of quadball's defining features is the **gender maximum rule**: no team can have more than four players of the same gender on the field at once (three during the seeker floor and in overtime). This rule promotes gender inclusivity and creates strategic depth.
 
 ### Multi-Ball Gameplay  
 Unlike most sports, quadball has **four balls in play simultaneously**:

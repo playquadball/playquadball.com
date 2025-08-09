@@ -40,7 +40,7 @@ Essential terms and definitions for understanding quadball.
 
 **Hoops** - Goals of three heights (short, medium, tall)
 
-**Keeper Zone** - Protected area extending 11m from endline
+**Keeper Zone** - Protected area extending from the endline to the keeper zone line (19m deep)
 
 **Stick** - Required equipment held between legs during play
 
@@ -66,8 +66,6 @@ Essential terms and definitions for understanding quadball.
 
 **Delay of Game** - Stalling or failing to advance play appropriately  
 
-**Helpless Receiver** - Protected player attempting to catch a pass
-
 **Illegal Contact** - Physical contact that violates the rules
 
 **Red Card** - Ejection from the game
@@ -78,13 +76,9 @@ Essential terms and definitions for understanding quadball.
 
 **Dodgeball Immunity** - Keeper's protection from being beaten while in zone
 
-**Gender Maximum** - Rule limiting same-gender players (4 max, 3 in seeker play)
-
-**Goaltending** - Illegally defending through own hoop
+**Gender Maximum** - Rule limiting same-gender players (4 max, 3 during seeker floor and in overtime)
 
 **Immunity** - Beater's temporary protection while pursuing third dodgeball  
-
-**Interposition** - Illegal positioning between opponents of different positions
 
 **Natural Motion** - Allowed completion of action when going off stick
 
@@ -104,7 +98,7 @@ Essential terms and definitions for understanding quadball.
 
 **PB** - Penalty Box
 
-**TD** - Tournament Director
+**ED** - Event Director
 
 ## Timing Terms
 
