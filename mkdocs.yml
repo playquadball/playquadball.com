@@ -48,6 +48,10 @@ nav:
     - Official Rulebook: resources/rulebook.md
     - Common Penalties: resources/penalties.md
     - Glossary: resources/glossary.md
+  - About:
+    - Overview: about/index.md
+    - How to Contribute: about/contribute.md
+    - Join the Effort: about/join.md
 
 plugins:
   - search
