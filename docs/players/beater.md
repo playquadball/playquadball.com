@@ -5,11 +5,13 @@
 As a **Beater** (black headband), you are the ultimate disruptor. Your mission is to control the game's pace and create opportunities by using the three dodgeballs to knock opponents off their sticks.
 
 **Your Equipment:**
+
 - **Headband:** Black. Must be worn on your forehead.
 - **Stick & Mouthguard:** Mandatory, just like for any other player.
 - **Dodgeballs:** Your weapon. Only beaters can possess and throw dodgeballs.
 
 **Core Responsibilities:**
+
 - **Control Dodgeballs:** Maintain "dodgeball supremacy" by ensuring your team has at least two of the three dodgeballs.
 - **Knock Players Off Stick ("Beats"):** Throw dodgeballs at opponents to force them to dismount and return to their hoops.
 - **Create Openings:** Target the opposing chaser with the volleyball to stop their attack or target the opposing beaters to win dodgeball control.
@@ -28,6 +30,7 @@ A "beat" only counts if the dodgeball is **LIVE**.
 - A dodgeball thrown as part of "natural motion" (finishing a throw after being beat) is **DEAD**.
 
 **Dodgeball Rules to Live By:**
+
 - **One Ball at a Time:** You can only hold one dodgeball. The only exception is if you're catching an incoming dodgeball while already holding one. You must immediately drop one.
 - **No Headshots:** Intentionally throwing at an opponent's head or neck is illegal unless they duck into the path of the ball.
     - **Penalty:** **Yellow Card** for an illegal headbeat, **Red Card** if thrown with excessive force. (Rule `5.2.6`)

@@ -377,6 +377,7 @@ graph TD
     G -- No --> F;
 ```
 **Common Keeper-Related Fouls:**
+
 - **Illegal Contact on Protected Keeper (`6.1.1.L`):** Tackling or stripping a protected keeper with the ball. **Standard Contact Penalty (Yellow Card)**.
 - **Keeper Delay (`7.4.1.C`):** After a goal, the keeper wastes time before making the ball live, or they substitute out before making it live. **Blue Card + Volleyball Turnover**.
 - **Pace of Play (`7.4.1.D`):** The offensive team must advance the ball out of their half at a walking pace. Keepers holding the ball indefinitely in the keeper zone is Delay of Game. **Blue Card + Volleyball Turnover**.
@@ -560,6 +561,7 @@ This is any action that crosses the line from evasion to assault.
 - **Pushing Torso/Legs:** Cannot push the FR's body.
 - **Grabbing Clothing:** Not allowed. A catch made while grabbing the FR's shorts is **invalid**, even if no penalty is given.
 - **Tripping/Hurdling/Slamming.**
+
 - **Any egregious or dangerous contact.**
 
 **Penalty:** Most illegal seeker/FR interactions result in a **Standard Contact Penalty (Yellow Card)**. An invalid catch is the secondary result.
@@ -872,6 +874,7 @@ This is the Timekeeper's domain.
         1.  One minute of game time has passed.
         2.  The opposing team scores a goal (by any means, including a flag catch).
 - **Red Card (2-minute):** The penalty ends ONLY when two full minutes of game time have passed. **It is NOT reduced by a goal.**
+
 - **Stacking Penalties:** If a player receives a second card while in the PB, the penalties are served consecutively. The second penalty time does not start until the first one has fully expired.
 - **Releasing the Player:** The Timekeeper must release the player as soon as their time expires. The player is considered `off stick` and must follow the `back-to-hoops` procedure to re-enter play. They cannot simply run onto the field from the box.
 

@@ -2,6 +2,7 @@
 
 ## For Players
 **Share your experience to help others learn**
+
 - **Beginners**: Tell us what was confusing when you started
 - **Veterans**: Share common mistakes and tips
 - **Officials**: Help us explain complex rules clearly
@@ -9,14 +10,17 @@
 
 ## For Writers and Editors
 **Help us improve the content**
+
 - **Fix grammar and spelling** errors
 - **Clarify confusing explanations**
+
 - **Add examples** from real games
 - **Organize information** better
 - **Create new sections** for missing topics
 
 ## For Technical Contributors
 **Improve the website itself**
+
 - **Web developers**: Enhance the site design and functionality
 - **Designers**: Create better visual aids and diagrams
 - **SEO experts**: Help more people find this resource
@@ -24,6 +28,7 @@
 
 ## For Quadball Community Leaders
 **Help us reach more people**
+
 - **Share this resource** at tournaments and training sessions
 - **Provide feedback** on what your community needs
 - **Connect us** with rule experts and experienced officials

@@ -11,6 +11,7 @@
 Tournament staff are responsible for ensuring all fields meet IQA standards before play begins. Referees verify these conditions, but the *provision and correction* of facilities fall to tournament staff.
 
 **Field & Pitch Requirements:**
+
 - **Dimensions:** Verify pitch is 33m x 60m. Keeper zone lines are **16.5m from the endlines** (13.5m from midfield). Hoops are on the endlines. (Rules `2.1.1`, `2.1.3`, `2.2.3`)
 - **Player Area:** Ensure the 44m x 66m player area is clear of all non-essential obstacles (bags, water bottles, spectators). The scorekeeper's table must be outside this area. (Rule `2.1.12.B`)
 - **Hoop Standards:**
@@ -19,6 +20,7 @@ Tournament staff are responsible for ensuring all fields meet IQA standards befo
     - **Authority:** The Head Referee can disallow a dangerous hoop for a specific game, but the TD is responsible for providing compliant hoops for the event.
 
 **Tournament Staff Authority vs. Referee Jurisdiction:**
+
 - **Tournament Staff:**  Provide, build, and maintain all fields to spec. Correct systemic issues (e.g., all hoops are faulty, field markings are incorrect).
 - **Referees:** Inspect their assigned field before each game. They can delay a game due to an unsafe condition (e.g., a single broken hoop, a sprinkler head) and will report it to staff for resolution. They do not build or fix the fields.
 
@@ -29,11 +31,13 @@ Tournament staff are responsible for ensuring all fields meet IQA standards befo
 The TD sets event-wide equipment policies. Referees enforce these policies on a per-game basis.
 
 **Equipment Provision & Policy:**
+
 - **Sticks:** The TD must provide at least 10 equal sticks per team. The event policy, set by the TD, dictates whether teams may use their own sticks. (Rule `2.4.3`)
 - **Forbidden Equipment:** Beyond the rulebook, the TD may ban other non-required equipment to comply with venue requirements (e.g., specific types of cleats on a turf field). This must be communicated to teams pre-event. (Rule `2.5.8`)
 - **Equipment Waivers:** The governing league/event organization (represented by the TD) is responsible for receiving, reviewing, and approving/denying any player requests for exemptions to equipment rules (e.g., for medical or religious reasons). A log of approved waivers should be available to Head Referees. (Rule `2.5.11`)
 
 **Tournament Staff Authority vs. Referee Jurisdiction:**
+
 - **Tournament Staff:** Set the event's equipment policies. Manage and approve waiver requests. Provide compliant standard equipment (sticks, balls).
 - **Referees:** Conduct pre-game checks to ensure players' personal equipment (mouthguards, padding, jerseys) is compliant with the rulebook and any specific event policies set by the TD. They enforce the rules; they do not create them.
 
@@ -55,11 +59,13 @@ The TD sets event-wide equipment policies. Referees enforce these policies on a 
 While referees manage game-level safety, the TD holds ultimate authority over event-wide safety and scheduling.
 
 **Suspension & Abandonment of Games:**
+
 - **Authority:** The TD or Head Referee can suspend a game due to weather, field safety concerns, or other external interference. (Rule `3.7.1.A`)
 - **TD's Role:** The decision to resume, relocate, or cancel a suspended game for the entire event falls to the TD. Referees manage the in-game suspension procedure but await direction from the TD on event logistics.
 - **Abandonment:** If a suspended game cannot be resumed, only the TD can declare the game "abandoned" and determine the outcome based on event policy. (Rule `3.7.3`)
 
 **Tournament Staff Authority vs. Referee Jurisdiction:**
+
 - **Tournament Staff:** Monitor weather for the entire venue. Make decisions to suspend or cancel all games. Manage the logistical challenges of resuming play (e.g., moving to a backup field, altering schedules).
 - **Referees:** Suspend a single game if a dangerous situation arises on their specific field. They do not have the authority to cancel the remainder of a game or alter the event schedule.
 
@@ -76,6 +82,7 @@ While referees manage game-level safety, the TD holds ultimate authority over ev
     - **Tournament Staff Jurisdiction:** Disputes regarding matters outside of a single game's officiating. These are escalated to the TD.
 
 **Dispute Channels:**
+
 - **On-Pitch Rule Application:** Player -> Speaking Captain -> Head Referee (Decision is final).
 - **Event Policy, Eligibility, or Off-Pitch Conduct:** Player/Team Leadership -> Tournament Director.
 

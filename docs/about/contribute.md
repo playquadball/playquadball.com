@@ -33,6 +33,7 @@ You don't need to know programming or Git to help improve this guide! Here are s
 
 ## Join Our Community
 **Want to chat with other contributors and get help?**
+
 - **Discord Server**: [Join our Discord community] (invite link coming soon)
 - **Real-time discussions** about improvements and quadball
 - **Get help** with contributions and technical questions
@@ -40,5 +41,6 @@ You don't need to know programming or Git to help improve this guide! Here are s
 
 ## Contact Us Directly
 **Prefer email or have bigger ideas?**
+
 - **Email**: contact@playquadball.com
 - **At tournaments**: Look for playquadball.com contributors

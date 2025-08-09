@@ -11,6 +11,7 @@ As a **Seeker** (yellow headband), you have one goal: catch the flag. A successf
 - **Seeker False Start:** Entering the pitch before you are released by the timekeeper is a foul (Blue Card).
 
 **Core Responsibilities & Vulnerabilities:**
+
 - **Catch the Flag:** Your primary objective.
 - **Avoid Beaters:** You can be knocked off stick by an opposing beater's dodgeball. Being 'beat' forces you to go back to your hoops, taking you out of the flag pursuit.
 - **Don't Interact with Other Players:** You cannot interact with any other players (chasers or beaters). They also cannot interact with you. Accidental contact is a foul (**Illegal Interposition Interaction** - Yellow Card). (Rule `6.4.1`)

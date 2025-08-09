@@ -5,12 +5,14 @@
 As a **Chaser** (white headband) or **Keeper** (green headband), your primary job is to score goals with the volleyball and defend your hoops. You are the core of your team's offense and defense.
 
 **Your Equipment:**
+
 - **Headband:** White for Chasers, Green for the Keeper. Must be worn on your forehead.
 - **Stick:** Must be held between your legs ("mounted") to participate in play. If you're knocked off your stick, you're out of the play until you go back to your hoops.
 - **Mouthguard:** Mandatory for your safety.
 - **Team Jersey:** Must have a unique number (0-99).
 
 **Core Responsibilities:**
+
 - **Offense:** Work with your teammates to move the volleyball down the field and throw it through the opponent's hoops for 10 points.
 - **Defense:** Prevent the opposing team from scoring by tackling, blocking, and intercepting the volleyball.
 - **Communication:** Constantly talk to your beaters and fellow chasers about offensive plays and defensive threats.
@@ -20,12 +22,14 @@ As a **Chaser** (white headband) or **Keeper** (green headband), your primary jo
 ### **On-Field Strategy & Positioning**
 
 **Offensive Play ("Drive"):**
+
 - **Initiating a Drive:** Your team is on offense when you gain possession of the volleyball.
 - **Advancing the Ball:** You must move the ball forward. You can't just hang back in your own half. You're expected to advance past midfield at a walking pace or faster. Stalling or intentionally delaying the game can result in a turnover (**Delay of Game** - Blue Card + Turnover).
 - **Resetting:** You can carry or pass the volleyball backward across midfield *once* per drive. This is called a "reset." A second reset is an illegal turnover. You cannot throw the ball backward across a line unless it's a legitimate pass attempt to a teammate.
 - **Shooting:** A goal is good if the *entire* volleyball passes through a hoop. It can go from front-to-back or back-to-front. (Rule `4.1.1`)
 
 **Defensive Play:**
+
 - **Tackling & Contact:** You can legally push (one-handed), wrap, and body block the opposing chaser with the volleyball.
     - **Front Contact Only:** All blocking, charging, and wrapping must be initiated from the front. Contact from behind is a foul. (Rule `6.1.9`)
     - **No Helpless Receivers:** You cannot make contact with a player who is in the air or in the process of catching the volleyball. Forceful contact is a Yellow Card, but **tackling a helpless receiver is a very dangerous play that results in a Red Card.** (Rules `6.1.7`, `6.1.13.G`)
