@@ -74,6 +74,7 @@ extra_css:
 
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - assets/javascripts/mermaid.js
 
 extra:
   generator: false
