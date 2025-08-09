@@ -19,6 +19,7 @@ For the most current and complete version of the official rulebook, visit:
 **[IQA Sport Official Website](https://iqasport.org)**
 
 The IQA website provides:
+
 - Complete PDF rulebook download
 - Rule clarifications and updates
 - Official interpretations
@@ -28,6 +29,7 @@ The IQA website provides:
 ## How This Website Relates to the Official Rules
 
 This website provides:
+
 - **Accessible summaries** of key rules for different audiences
 - **Position-specific guides** extracted from the complete rulebook
 - **Quick reference materials** for common situations
