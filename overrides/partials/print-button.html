@@ -1,0 +1,35 @@
+<!-- Print Button for Easy PDF Generation -->
+<button 
+  class="print-button md-content__button md-icon" 
+  title="Print this page as PDF"
+  onclick="window.print()"
+  style="
+    position: fixed;
+    top: 50%;
+    right: 1rem;
+    z-index: 1000;
+    background: var(--md-primary-fg-color);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: background-color 0.2s, transform 0.2s;
+  "
+  onmouseover="this.style.transform='scale(1.1)'"
+  onmouseout="this.style.transform='scale(1)'"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+    <path d="M18 3H6v4h12V3zm1 5H5a1 1 0 0 0-1 1v6h4v4h8v-4h4V9a1 1 0 0 0-1-1zM8 17v-2h8v2H8zm2-6a1 1 0 1 1-1 1 1 1 0 0 1 1-1zm6 0a1 1 0 1 1-1 1 1 1 0 0 1 1-1z"/>
+  </svg>
+</button>
+
+<style>
+  @media print {
+    .print-button {
+      display: none !important;
+    }
+  }
+</style>

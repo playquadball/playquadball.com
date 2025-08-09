@@ -56,18 +56,6 @@ nav:
 plugins:
   - search
   - git-revision-date-localized
-  - pdf-export:
-      verbose: true
-      media_type: print
-      enabled_if_env: ENABLE_PDF_EXPORT
-      combined: true
-      combined_output_path: pdf/quadball-complete-guide.pdf
-      theme_handler_path: null
-      render_js: false
-      headless_chrome_path: null
-      show_anchors: false
-      output_format: A4
-      orientation: portrait
 
 markdown_extensions:
   - admonition
@@ -97,5 +85,8 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://iqasport.org
       name: International Quadball Association
+    - icon: material/printer
+      link: "javascript:window.print()"
+      name: Print this page
 
 copyright: Copyright &copy; 2025 playquadball.com | <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>

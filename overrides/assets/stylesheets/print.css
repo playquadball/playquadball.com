@@ -1,7 +1,17 @@
-/* Print-specific CSS to fix blank pages in PDF export */
+/* Professional Print CSS for Browser Print-to-PDF */
 
 @media print {
-  /* Remove problematic layout elements */
+  /* Page setup */
+  @page {
+    margin: 1.5cm 2cm;
+    size: A4 portrait;
+  }
+
+  @page :first {
+    margin-top: 3cm;
+  }
+
+  /* Hide navigation and UI elements */
   .md-header,
   .md-tabs,
   .md-footer,
@@ -9,145 +19,269 @@
   .md-sidebar,
   .md-search,
   .md-announce,
-  .md-dialog {
+  .md-dialog,
+  .md-skip,
+  .md-source,
+  .md-version,
+  .md-top,
+  .md-content__button,
+  .print-button {
     display: none !important;
   }
 
-  /* Fix main content area */
-  .md-main {
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-
+  /* Reset main layout */
+  .md-container,
+  .md-main,
   .md-main__inner {
+    display: block !important;
     margin: 0 !important;
     padding: 0 !important;
+    width: auto !important;
+    max-width: none !important;
   }
 
   .md-content {
     margin: 0 !important;
-    padding: 20px !important;
+    padding: 0 !important;
+    max-width: none !important;
+  }
+
+  .md-content__inner {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Typography */
+  html, body {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 12pt !important;
+    line-height: 1.4 !important;
+    color: #000 !important;
+    background: white !important;
   }
 
   .md-typeset {
-    font-size: 11pt !important;
-    line-height: 1.4 !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    color: inherit !important;
+  }
+
+  /* Headings */
+  .md-typeset h1 {
+    font-size: 18pt !important;
+    font-weight: bold !important;
+    margin: 24pt 0 12pt 0 !important;
+    page-break-after: avoid !important;
+    page-break-inside: avoid !important;
     color: #000 !important;
   }
 
-  /* Page break control */
-  .md-typeset h1,
-  .md-typeset h2,
-  .md-typeset h3 {
+  .md-typeset h2 {
+    font-size: 16pt !important;
+    font-weight: bold !important;
+    margin: 18pt 0 10pt 0 !important;
     page-break-after: avoid !important;
     page-break-inside: avoid !important;
-    margin-top: 1em !important;
-    margin-bottom: 0.5em !important;
+    color: #000 !important;
   }
 
-  /* Avoid breaking tables, code blocks, and diagrams */
-  .md-typeset table,
-  .md-typeset pre,
-  .md-typeset .highlight,
-  .mermaid {
+  .md-typeset h3 {
+    font-size: 14pt !important;
+    font-weight: bold !important;
+    margin: 14pt 0 8pt 0 !important;
+    page-break-after: avoid !important;
     page-break-inside: avoid !important;
-    margin: 0.5em 0 !important;
+    color: #000 !important;
   }
 
-  /* Fix table styling for print */
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6 {
+    font-size: 13pt !important;
+    font-weight: bold !important;
+    margin: 12pt 0 6pt 0 !important;
+    page-break-after: avoid !important;
+    page-break-inside: avoid !important;
+    color: #000 !important;
+  }
+
+  /* Paragraphs and text */
+  .md-typeset p {
+    margin: 6pt 0 !important;
+    color: #000 !important;
+    orphans: 3 !important;
+    widows: 3 !important;
+  }
+
+  /* Lists */
+  .md-typeset ul,
+  .md-typeset ol {
+    margin: 6pt 0 !important;
+    padding-left: 20pt !important;
+  }
+
+  .md-typeset li {
+    margin: 2pt 0 !important;
+    page-break-inside: avoid !important;
+    color: #000 !important;
+  }
+
+  /* Tables */
   .md-typeset table {
     width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 12pt 0 !important;
+    page-break-inside: avoid !important;
     font-size: 10pt !important;
   }
 
   .md-typeset table th,
   .md-typeset table td {
-    padding: 4px 6px !important;
-    border: 1px solid #ccc !important;
+    border: 1px solid #333 !important;
+    padding: 4pt 6pt !important;
+    text-align: left !important;
     vertical-align: top !important;
+    color: #000 !important;
   }
 
-  /* Ensure mermaid diagrams are visible */
+  .md-typeset table th {
+    background: #f0f0f0 !important;
+    font-weight: bold !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Code and preformatted text */
+  .md-typeset pre,
+  .md-typeset code {
+    font-family: 'Courier New', Courier, monospace !important;
+    font-size: 10pt !important;
+    color: #000 !important;
+  }
+
+  .md-typeset pre {
+    background: #f8f8f8 !important;
+    border: 1px solid #ccc !important;
+    padding: 8pt !important;
+    margin: 8pt 0 !important;
+    page-break-inside: avoid !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .md-typeset code {
+    background: #f0f0f0 !important;
+    padding: 1pt 2pt !important;
+    border-radius: 0 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Mermaid diagrams */
+  .mermaid {
+    page-break-inside: avoid !important;
+    margin: 12pt 0 !important;
+    text-align: center !important;
+  }
+
   .mermaid svg {
     max-width: 100% !important;
     height: auto !important;
     background: white !important;
+    border: 1px solid #ddd !important;
   }
 
-  /* Fix lists and spacing */
-  .md-typeset ul,
-  .md-typeset ol {
-    margin: 0.5em 0 !important;
-  }
-
-  .md-typeset li {
-    margin: 0.2em 0 !important;
-  }
-
-  /* Remove hover effects and transitions */
-  * {
-    transition: none !important;
-    animation: none !important;
-  }
-
-  /* Fix admonitions for print */
+  /* Admonitions/Callouts */
   .md-typeset .admonition {
-    border: 1px solid #ccc !important;
-    margin: 0.5em 0 !important;
+    border: 2px solid #333 !important;
+    margin: 12pt 0 !important;
     page-break-inside: avoid !important;
+    background: white !important;
   }
 
   .md-typeset .admonition-title {
-    background: #f5f5f5 !important;
+    background: #e0e0e0 !important;
     color: #000 !important;
-    border-bottom: 1px solid #ccc !important;
+    font-weight: bold !important;
+    padding: 6pt 8pt !important;
     margin: 0 !important;
-    padding: 0.5em !important;
+    border-bottom: 1px solid #333 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
   }
 
-  /* Ensure text is black for good contrast */
-  .md-typeset,
-  .md-typeset p,
-  .md-typeset h1,
-  .md-typeset h2,
-  .md-typeset h3,
-  .md-typeset h4,
-  .md-typeset h5,
-  .md-typeset h6,
-  .md-typeset li,
-  .md-typeset td {
-    color: #000 !important;
+  .md-typeset .admonition-title::before {
+    display: none !important;
   }
 
-  /* Fix links for print */
+  .md-typeset .admonition > :last-child {
+    margin-bottom: 8pt !important;
+  }
+
+  /* Links */
   .md-typeset a {
     color: #000 !important;
     text-decoration: underline !important;
   }
 
-  /* Remove background colors that might cause issues */
-  * {
-    background-color: transparent !important;
+  .md-typeset a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 9pt !important;
+    color: #666 !important;
+  }
+
+  /* Remove all animations and transitions */
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
     background-image: none !important;
     box-shadow: none !important;
+    text-shadow: none !important;
   }
 
-  /* Ensure proper margins for page */
-  @page {
-    margin: 2cm;
-    size: A4;
-  }
-
-  /* Reset any problematic positioning */
-  .md-typeset * {
+  /* Ensure proper positioning */
+  * {
     position: static !important;
     float: none !important;
   }
 
-  /* Hide any JavaScript-dependent content that might cause issues */
-  .md-search,
-  .md-source,
-  .md-version {
+  /* Force colors for consistency */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Page breaks */
+  .md-typeset h1 {
+    page-break-before: always !important;
+  }
+
+  .md-typeset h1:first-of-type {
+    page-break-before: auto !important;
+  }
+
+  /* Utility classes for manual control */
+  .page-break-before {
+    page-break-before: always !important;
+  }
+
+  .page-break-after {
+    page-break-after: always !important;
+  }
+
+  .no-page-break {
+    page-break-inside: avoid !important;
+  }
+
+  /* Hide print button when printing */
+  .print-only {
+    display: block !important;
+  }
+
+  .no-print {
     display: none !important;
   }
 }

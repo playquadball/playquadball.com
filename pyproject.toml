@@ -7,5 +7,4 @@ requires-python = ">=3.11"
 dependencies = [
     "mkdocs-git-revision-date-localized-plugin>=1.4.7",
     "mkdocs-material>=9.6.16",
-    "mkdocs-pdf-export-plugin>=0.5.10",
 ]

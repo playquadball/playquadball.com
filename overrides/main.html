@@ -41,3 +41,8 @@
   }
   </script>
 {% endblock %}
+
+{% block content %}
+  {{ super() }}
+  {% include "partials/print-button.html" %}
+{% endblock %}
