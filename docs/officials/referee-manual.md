@@ -408,8 +408,11 @@ A "beat" is only valid if the dodgeball is **LIVE**. A referee's primary job in 
 A dodgeball becomes live the moment it is thrown, kicked, or intentionally propelled by a beater. It remains live until it:
 
 1.  **Touches the ground.**
+
 2.  **Goes out of bounds.**
+
 3.  **Is caught by an opposing beater.**
+
 4.  **Is blocked by a held ball and then caught by the blocker's teammate beater.**
 
 **What Makes a Dodgeball DEAD?**
@@ -731,9 +734,13 @@ Players of different positions are generally forbidden from initiating contact w
 **The Priority Ladder (Highest to Lowest):**
 
 1.  **Stationary Player with a Ball**
+
 2.  **Stationary Chaser without a Ball**
+
 3.  **Moving Player with a Ball**
+
 4.  **Stationary Beater or Seeker without a Ball**
+
 5.  **Moving Player without a Ball**
 
 **Right of Way Scenarios:**
@@ -832,6 +839,7 @@ When issuing a card, precision and clarity are vital.
     - Hold the appropriate card high in one hand.
     - In the other hand, use a hand signal to indicate the foul (e.g., a pushing motion for a push from behind).
     - Loudly and clearly state the penalty, player, and infraction. **"Blue Card, Number 23 Green, Delay of Game!"**
+
 4.  **Send to Box:** Direct the player to their team's penalty box.
 5.  **Communicate to Scorer:** Make eye contact with the scorekeeper and repeat the number and infraction to ensure it is recorded correctly.
 6.  **Administer Turnovers:** Execute any turnovers resulting from the penalty.
