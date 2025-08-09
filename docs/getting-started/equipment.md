@@ -57,7 +57,7 @@ All players must have the following to participate:
   - Rubber playground balls
   - Circumference: 68-70 cm  
   - Must maintain round shape when thrown
-  - Thrown by beaters to knock players off stick, but any player can catch a live dodgeball to avoid being knocked off and get the thrower out
+  - Thrown by beaters to knock players off stick, but only beater can catch a live dodgeball to avoid being knocked off and get the thrower out
 
 - **Flag**
   - Ball (such as tennis ball) with 65-69mm diameter and 55-60g weight, held within fabric sleeve
