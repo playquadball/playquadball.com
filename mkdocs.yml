@@ -8,6 +8,8 @@ site_author: playquadball.com
 theme:
   name: material
   custom_dir: overrides
+  icon:
+    logo: material/volleyball
   palette:
     - scheme: default
       primary: deep purple
