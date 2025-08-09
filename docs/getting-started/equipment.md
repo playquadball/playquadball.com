@@ -7,78 +7,78 @@ This guide covers all the equipment needed to play quadball, from mandatory safe
 ### Mandatory Equipment
 All players must have the following to participate:
 
-**Stick**
-- Typically a PVC pipe, broom handle, or similar cylindrical object
-- Length: 81-107 cm (32-42 inches)  
-- Diameter: Must allow comfortable grip
-- Must be held between legs at all times during play
+- **Stick**
+  - Typically a PVC pipe, broom handle, or similar cylindrical object
+  - Length: 81-107 cm (32-42 inches)  
+  - Diameter: Must allow comfortable grip
+  - Must be held between legs at all times during play
 
-**Mouthguard**
-- Required for all players during gameplay
-- Must be properly fitted and meet safety standards
-- Cannot be removed during active play
+- **Mouthguard**
+  - Required for all players during gameplay
+  - Must be properly fitted and meet safety standards
+  - Cannot be removed during active play
 
-**Headband**
-- Indicates player position and must be worn on forehead
-- Colors: White (chasers), Green (keeper), Black (beaters), Yellow (seekers)
-- Must be clearly visible and securely attached
+- **Headband**
+  - Indicates player position and must be worn on forehead
+  - Colors: White (chasers), Green (keeper), Black (beaters), Yellow (seekers)
+  - Must be clearly visible and securely attached
 
-**Team Jersey**
-- Each player must have a unique number (0-99)
-- Numbers must be clearly visible front and back
-- Team colors should be distinct from opponents
+- **Team Jersey**
+  - Each player must have a unique number (0-99)
+  - Numbers must be clearly visible front and back
+  - Team colors should be distinct from opponents
 
 ### Recommended Equipment
 
-**Cleats**
-- Football, rugby, or soccer cleats work best
-- Metal studs typically not allowed - check local rules
+- **Cleats**
+  - Football, rugby, or soccer cleats work best
+  - Metal studs typically not allowed - check local rules
 
-**Protective Gear**
-- Knee pads and shin guards (especially for chasers/keepers)
-- Padded shorts or compression gear
-- Elbow pads for beaters
+- **Protective Gear**
+  - Knee pads and shin guards (especially for chasers/keepers)
+  - Padded shorts or compression gear
+  - Elbow pads for beaters
 
-**Gloves**
-- Improve grip on balls and stick
-- Protect hands during contact
+- **Gloves**
+  - Improve grip on balls and stick
+  - Protect hands during contact
 
 ## Game Equipment
 
 ### Balls
 
-**Volleyball**
-- Standard volleyball
-- Circumference: 65-67 cm
-- Properly inflated (not too hard, not too soft)
-- Used by chasers and keepers only
+- **Volleyball**
+  - Standard volleyball
+  - Circumference: 65-67 cm
+  - Properly inflated (not too hard, not too soft)
+  - Used by chasers and keepers only
 
-**Dodgeballs (3 total)**
-- Rubber playground balls
-- Circumference: 68-70 cm  
-- Must maintain round shape when thrown
-- Used by beaters only
+- **Dodgeballs (3 total)**
+  - Rubber playground balls
+  - Circumference: 68-70 cm  
+  - Must maintain round shape when thrown
+  - Used by beaters only
 
-**Flag**
-- Tennis ball inside a fabric sleeve/sock
-- Attached to flag runner's shorts
-- Visible length: 25-30 cm
-- Sought by seekers only
+- **Flag**
+  - Tennis ball inside a fabric sleeve/sock
+  - Attached to flag runner's shorts
+  - Visible length: 25-30 cm
+  - Sought by seekers only
 
 ### Field Equipment
 
-**Hoops (6 total)**
-- Three heights per goal: Short (89-93 cm), Medium (135-139 cm), Tall (181-185 cm)
-- Inner diameter: 81-86 cm
-- Must be sturdy enough to withstand contact
-- Cannot be made of metal or concrete
+- **Hoops (6 total)**
+  - Three heights per goal: Short (89-93 cm), Medium (135-139 cm), Tall (181-185 cm)
+  - Inner diameter: 81-86 cm
+  - Must be sturdy enough to withstand contact
+  - Cannot be made of metal or concrete
 
-**Field Markings**
-- Boundary lines marking 33m x 60m rectangle
-- Midfield line
-- Keeper zone lines (11m from midfield)
-- Goal lines (16.5m from midfield)
-- Various other markings for positioning
+- **Field Markings**
+  - Boundary lines marking 33m x 60m rectangle
+  - Midfield line
+  - Keeper zone lines (11m from midfield)
+  - Goal lines (16.5m from midfield)
+  - Various other markings for positioning
 
 ## Equipment Rules & Regulations
 
