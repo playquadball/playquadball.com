@@ -62,6 +62,12 @@ plugins:
       enabled_if_env: ENABLE_PDF_EXPORT
       combined: true
       combined_output_path: pdf/quadball-complete-guide.pdf
+      theme_handler_path: null
+      render_js: false
+      headless_chrome_path: null
+      show_anchors: false
+      output_format: A4
+      orientation: portrait
 
 markdown_extensions:
   - admonition
@@ -77,6 +83,7 @@ markdown_extensions:
 
 extra_css:
   - assets/stylesheets/custom.css
+  - assets/stylesheets/print.css
 
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js

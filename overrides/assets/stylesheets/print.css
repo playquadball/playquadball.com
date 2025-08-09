@@ -1,0 +1,153 @@
+/* Print-specific CSS to fix blank pages in PDF export */
+
+@media print {
+  /* Remove problematic layout elements */
+  .md-header,
+  .md-tabs,
+  .md-footer,
+  .md-nav,
+  .md-sidebar,
+  .md-search,
+  .md-announce,
+  .md-dialog {
+    display: none !important;
+  }
+
+  /* Fix main content area */
+  .md-main {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .md-main__inner {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .md-content {
+    margin: 0 !important;
+    padding: 20px !important;
+  }
+
+  .md-typeset {
+    font-size: 11pt !important;
+    line-height: 1.4 !important;
+    color: #000 !important;
+  }
+
+  /* Page break control */
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3 {
+    page-break-after: avoid !important;
+    page-break-inside: avoid !important;
+    margin-top: 1em !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  /* Avoid breaking tables, code blocks, and diagrams */
+  .md-typeset table,
+  .md-typeset pre,
+  .md-typeset .highlight,
+  .mermaid {
+    page-break-inside: avoid !important;
+    margin: 0.5em 0 !important;
+  }
+
+  /* Fix table styling for print */
+  .md-typeset table {
+    width: 100% !important;
+    font-size: 10pt !important;
+  }
+
+  .md-typeset table th,
+  .md-typeset table td {
+    padding: 4px 6px !important;
+    border: 1px solid #ccc !important;
+    vertical-align: top !important;
+  }
+
+  /* Ensure mermaid diagrams are visible */
+  .mermaid svg {
+    max-width: 100% !important;
+    height: auto !important;
+    background: white !important;
+  }
+
+  /* Fix lists and spacing */
+  .md-typeset ul,
+  .md-typeset ol {
+    margin: 0.5em 0 !important;
+  }
+
+  .md-typeset li {
+    margin: 0.2em 0 !important;
+  }
+
+  /* Remove hover effects and transitions */
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  /* Fix admonitions for print */
+  .md-typeset .admonition {
+    border: 1px solid #ccc !important;
+    margin: 0.5em 0 !important;
+    page-break-inside: avoid !important;
+  }
+
+  .md-typeset .admonition-title {
+    background: #f5f5f5 !important;
+    color: #000 !important;
+    border-bottom: 1px solid #ccc !important;
+    margin: 0 !important;
+    padding: 0.5em !important;
+  }
+
+  /* Ensure text is black for good contrast */
+  .md-typeset,
+  .md-typeset p,
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6,
+  .md-typeset li,
+  .md-typeset td {
+    color: #000 !important;
+  }
+
+  /* Fix links for print */
+  .md-typeset a {
+    color: #000 !important;
+    text-decoration: underline !important;
+  }
+
+  /* Remove background colors that might cause issues */
+  * {
+    background-color: transparent !important;
+    background-image: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Ensure proper margins for page */
+  @page {
+    margin: 2cm;
+    size: A4;
+  }
+
+  /* Reset any problematic positioning */
+  .md-typeset * {
+    position: static !important;
+    float: none !important;
+  }
+
+  /* Hide any JavaScript-dependent content that might cause issues */
+  .md-search,
+  .md-source,
+  .md-version {
+    display: none !important;
+  }
+}
