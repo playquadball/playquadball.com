@@ -1,0 +1,78 @@
+site_name: Quadball Introduction
+site_description: Your complete guide to understanding and playing quadball
+site_url: https://playquadball.com
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/playquadball.com
+edit_uri: edit/main/docs/
+site_author: playquadball.com
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - What is Quadball?: getting-started/what-is-quadball.md
+    - Basic Rules: getting-started/basic-rules.md
+    - Equipment Guide: getting-started/equipment.md
+  - Player Guides:
+    - Chaser & Keeper Guide: players/chaser-keeper.md
+    - Beater Guide: players/beater.md
+    - Seeker Guide: players/seeker.md
+  - Officials:
+    - Referee Manual: officials/referee-manual.md
+    - Tournament Staff Guide: officials/tournament-staff.md
+  - Resources:
+    - Official Rulebook: resources/rulebook.md
+    - Common Penalties: resources/penalties.md
+    - Glossary: resources/glossary.md
+
+plugins:
+  - search
+  - git-revision-date-localized
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - tables
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/playquadball.com
+    - icon: fontawesome/solid/globe
+      link: https://iqasport.org
+      name: International Quadball Association
+
+copyright: Copyright &copy; 2025 playquadball.com | <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
