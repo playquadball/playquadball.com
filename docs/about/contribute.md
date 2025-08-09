@@ -4,6 +4,7 @@ You don't need to know programming or Git to help improve this guide! Here are s
 
 ## Report Issues or Suggest Improvements
 **Found something wrong or have an idea?**
+
 1. **Click this link**: [Report an Issue](https://github.com/playquadball/playquadball.com/issues/new)
 2. **Create a free GitHub account** if you don't have one (takes 2 minutes)
 3. **Tell us what's wrong or what you'd like to see**:
@@ -14,6 +15,7 @@ You don't need to know programming or Git to help improve this guide! Here are s
 
 ## Make Quick Edits
 **See a typo or want to fix something small?**
+
 1. **Go to any page** you want to improve
 2. **Click the edit button** (✏️ pencil icon) at the top right
 3. **Make your changes** in the text editor that opens
@@ -24,6 +26,7 @@ You don't need to know programming or Git to help improve this guide! Here are s
 
 ## Join the Discussion
 **Want to chat about ideas or ask questions?**
+
 1. **Visit our discussions**: [GitHub Discussions](https://github.com/playquadball/playquadball.com/discussions)
 2. **Start a conversation** about new content, improvements, or quadball in general
 3. **Help others** by answering questions or sharing your experience
