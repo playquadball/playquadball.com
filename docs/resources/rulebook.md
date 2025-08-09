@@ -77,6 +77,7 @@ Complete glossary of official terms and definitions
 ## Updates and Clarifications
 
 The IQA periodically releases:
+
 - **Rule updates** - Changes to existing rules
 - **Clarifications** - Official interpretations of existing rules  
 - **Errata** - Corrections to the published rulebook
@@ -86,6 +87,7 @@ Stay current by following IQA announcements and checking their website regularly
 ## Regional Variations
 
 While the IQA rulebook provides international standards, some regions may have:
+
 - Local adaptations for youth or recreational play
 - Tournament-specific modifications
 - Equipment substitutions based on availability

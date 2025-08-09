@@ -11,6 +11,7 @@ Thank you for your interest in improving this quadball educational resource! Thi
 - **Formatting problems**: Display issues, broken lists, or rendering errors
 
 **How to report**: Open an [issue](https://github.com/playquadball/playquadball.com/issues) with:
+
 - Clear description of the problem
 - Page URL where the issue appears
 - Expected vs. actual behavior

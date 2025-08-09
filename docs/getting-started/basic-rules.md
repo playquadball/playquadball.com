@@ -36,6 +36,7 @@ When hit by a live dodgeball or when you dismount your stick:
 
 ### Keeper Zone Protection
 The keeper has special powers while in their zone:
+
 - **Possession immunity** - can't be tackled once they have the volleyball
 - **Beat immunity** - can't be knocked off stick by dodgeballs
 - **Limited duration** - powers end when the volleyball leaves the zone
@@ -66,6 +67,7 @@ The keeper has special powers while in their zone:
 
 ### Ending the Game
 The game ends when:
+
 - A seeker legally catches the flag
 - The team with more points (including the 30-point flag bonus) wins
 - If tied after flag catch, the game goes to overtime
@@ -73,6 +75,7 @@ The game ends when:
 ## Penalties
 
 Common penalties include:
+
 - **Back-to-Hoops** - Minor infractions, player resets
 - **Blue Card** - Procedural fouls, 1-minute penalty
 - **Yellow Card** - Contact fouls, 1-minute penalty  

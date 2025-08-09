@@ -99,6 +99,7 @@ While referees manage game-level safety, the TD holds ultimate authority over ev
 ### **7. Event Logistics & Discretionary Authority**
 
 The following logistical decisions fall under the authority of the Tournament Director:
+
 - **Benches & Coaching Areas:** TDs can elect to expand the size of team benches for all fields at the event. (Rule `2.1.8.A`)
 - **Staff Access:** The TD determines which event staff members are given access to the player area. (Rule `2.1.12.C.iii`)
 - **Scoresheet Certification:** While referees and captains sign the scoresheet to confirm the score, the TD is responsible for collecting, auditing, and archiving these official documents.

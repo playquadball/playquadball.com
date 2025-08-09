@@ -5,6 +5,7 @@ A comprehensive guide to understanding and playing quadball, built with MkDocs.
 ## About
 
 This website provides accessible, accurate information about quadball for:
+
 - **New players** learning the sport
 - **Position-specific guides** for chasers, keepers, beaters, and seekers  
 - **Officials** needing referee procedures and tournament management
@@ -63,10 +64,12 @@ All contributions must follow our [CC BY-NC 4.0 license](#license) and maintain 
 This content is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 You are free to:
+
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material
 
 Under the following terms:
+
 - **Attribution** — You must give appropriate credit to playquadball.com and indicate if changes were made
 - **NonCommercial** — You may not use the material for commercial purposes
 

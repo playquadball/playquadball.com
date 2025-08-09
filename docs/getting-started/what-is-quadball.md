@@ -12,6 +12,7 @@ Quadball is a fast-paced, full-contact sport played by two teams of seven player
 ## The Field
 
 Quadball is played on a rectangular field (33m x 60m) with:
+
 - **Six hoops** - three at each end of varying heights (short, medium, tall)
 - **Clearly marked areas** - keeper zones, midfield line, and boundaries
 - **Multiple balls in play** - one volleyball and three dodgeballs
@@ -23,6 +24,7 @@ One of quadball's defining features is the **gender maximum rule**: no team can 
 
 ### Multi-Ball Gameplay  
 Unlike most sports, quadball has **four balls in play simultaneously**:
+
 - **1 Volleyball** - used to score goals worth 10 points
 - **3 Dodgeballs** - used to temporarily remove opponents from play
 - **1 Flag** - captured to end the game and award 30 points
@@ -33,6 +35,7 @@ Quadball combines the strategic elements of sports like rugby and basketball wit
 ## The Global Community
 
 Quadball is played by over **600 teams** in more than **40 countries** worldwide. The sport is governed by the International Quadball Association (IQA) and features:
+
 - Regional and national championships
 - A World Cup held every two years  
 - University leagues and club competitions

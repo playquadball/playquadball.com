@@ -9,6 +9,7 @@ Quick reference guide for the most common penalties in quadball.
 **Effect:** Player must return to hoops and reset before rejoining play
 
 Common situations:
+
 - Minor illegal contact
 - Interposition interference (minor)
 - Immunity violations
@@ -19,6 +20,7 @@ Common situations:
 **Effect:** Team plays short-handed
 
 Common situations:
+
 - Illegal substitution
 - Delay of game
 - Playing while off stick
@@ -30,6 +32,7 @@ Common situations:
 **Effect:** Team plays short-handed
 
 Common situations:
+
 - Contact from behind
 - Illegal contact (standard)
 - Unsportsmanlike conduct
@@ -41,6 +44,7 @@ Common situations:
 **Effect:** Permanent player removal
 
 Common situations:
+
 - Intentional contact to head/neck
 - Tackling a helpless receiver
 - Egregious unsportsmanlike conduct
