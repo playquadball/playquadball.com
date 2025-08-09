@@ -1,6 +1,6 @@
 # About This Project
 
-Welcome to the Quadball Introduction Guide - a community-driven effort to make quadball accessible to everyone.
+Welcome to the How to play Quadball Guide - a community-driven effort to make quadball accessible to everyone.
 
 ## Our Mission
 

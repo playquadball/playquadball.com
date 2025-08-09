@@ -1,4 +1,4 @@
-# Quadball Introduction Website
+# How to play Quadball Website
 
 A comprehensive guide to understanding and playing quadball, built with MkDocs.
 

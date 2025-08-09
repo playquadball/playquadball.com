@@ -1,4 +1,4 @@
-# Contributing to Quadball Introduction
+# Contributing to How to play Quadball
 
 Thank you for your interest in improving this quadball educational resource! This guide explains how to contribute effectively.
 
