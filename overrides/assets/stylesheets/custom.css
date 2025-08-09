@@ -1,0 +1,17 @@
+/* Custom color scheme using #2196F3 (blue) and #3F51B5 (indigo) */
+
+:root {
+  --md-primary-fg-color: #2196F3;
+  --md-primary-fg-color--light: #64B5F6;
+  --md-primary-fg-color--dark: #1976D2;
+  --md-accent-fg-color: #3F51B5;
+  --md-accent-fg-color--transparent: rgba(63, 81, 181, 0.1);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #2196F3;
+  --md-primary-fg-color--light: #64B5F6;
+  --md-primary-fg-color--dark: #1976D2;
+  --md-accent-fg-color: #3F51B5;
+  --md-accent-fg-color--transparent: rgba(63, 81, 181, 0.1);
+}

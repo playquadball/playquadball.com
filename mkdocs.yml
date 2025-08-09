@@ -12,14 +12,14 @@ theme:
     logo: material/volleyball
   palette:
     - scheme: default
-      primary: deep purple
-      accent: amber
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     - scheme: slate
-      primary: deep purple
-      accent: amber
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -64,6 +64,9 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+
+extra_css:
+  - assets/stylesheets/custom.css
 
 extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
