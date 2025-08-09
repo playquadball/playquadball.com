@@ -20,11 +20,12 @@ All players must keep a stick (typically a PVC pipe) between their legs while pl
 - Can be scored from either direction (front-to-back or back-to-front)
 - Only chasers and keepers can handle the volleyball
 
-### Flag Catch (30 points + ends game)
+### Flag Catch (30 points + potential game end)
 - After 20 minutes (the "seeker floor"), seekers enter play to catch the flag
 - The flag is carried by a neutral official called the flag runner
-- Catching the flag awards 30 points and ends the game
-- The team with more total points wins
+- Catching the flag awards 30 points and triggers the end-game sequence
+- If the catching team has more points after the bonus, they win immediately
+- If the catching team is tied or still behind, the game goes to overtime
 
 ## Key Gameplay Concepts
 
@@ -37,7 +38,7 @@ When hit by a live dodgeball or when you dismount your stick:
 ### Keeper Zone Protection
 The keeper has special powers while in their zone:
 
-- **Possession immunity** - can't be tackled once they have the volleyball
+- **Possession immunity** - immune to physical contact when holding the volleyball
 - **Beat immunity** - can't be knocked off stick by dodgeballs
 - **Limited duration** - powers end when the volleyball leaves the zone
 
@@ -63,14 +64,14 @@ The keeper has special powers while in their zone:
 ### Seeker Release
 - At exactly 20:00, seekers enter from their penalty boxes
 - Flag runner enters the field carrying the flag
-- Game continues until flag is caught
+- Game continues until flag is caught and end-game sequence is resolved
 
 ### Ending the Game
-The game ends when:
+The game enters its final phase when a seeker legally catches the flag:
 
-- A seeker legally catches the flag
-- The team with more points (including the 30-point flag bonus) wins
-- If tied after flag catch, the game goes to overtime
+- If the catching team has more points after the 30-point bonus, they win immediately
+- If the catching team is tied or behind after the flag catch, the game proceeds to overtime
+- In overtime, teams play to reach a "target score" (losing team's score + 30 points)
 
 ## Penalties
 
@@ -83,9 +84,9 @@ Common penalties include:
 
 ## Time Rules
 
-- **Game clock used** - tracks the 20-minute seeker floor, games end when flag is caught
+- **Game clock used** - tracks the 20-minute seeker floor, games end when end-game sequence is resolved
 - **20-minute seeker floor** - measured in game time (clock stops during stoppages)
-- **Penalty time** - continues to run during most stoppages
+- **Penalty time** - paused during stoppages along with game clock
 - **Substitutions** - allowed on-the-fly during live play
 
 ---

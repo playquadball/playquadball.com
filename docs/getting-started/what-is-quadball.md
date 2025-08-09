@@ -1,13 +1,13 @@
 # What is Quadball?
 
-Quadball is a fast-paced, full-contact sport played by two teams of seven players. Originally inspired by Quidditch from the Harry Potter series, quadball has evolved into a legitimate competitive sport with its own unique identity and international governing body.
+Quadball is a fast-paced, full-contact sport with teams of 7-21 players, fielding seven players at a time. Originally inspired by Quidditch from the Harry Potter series, quadball has evolved into a legitimate competitive sport with its own unique identity and international governing body.
 
 ## The Basics
 
-- **Teams:** Two teams of 7 players each
+- **Teams:** Two teams fielding 7 players each (from rosters of 7-21 players)
 - **Equipment:** Three types of balls (volleyball, dodgeballs, flag), sticks, hoops
 - **Objective:** Score points by throwing the volleyball through the opponent's hoops, and catch the flag to potentially end the game
-- **Duration:** Games have no time limit - they end when the flag is caught
+- **Duration:** Games have a 20-minute seeker floor, then continue until flag catch triggers end-game sequence
 
 ## The Field
 
@@ -27,7 +27,7 @@ Unlike most sports, quadball has **four balls in play simultaneously**:
 
 - **1 Volleyball** - used to score goals worth 10 points
 - **3 Dodgeballs** - used to temporarily remove opponents from play
-- **1 Flag** - captured to end the game and award 30 points
+- **1 Flag** - captured to trigger end-game sequence and award 30 points
 
 ### Full Contact with Strategy
 Quadball combines the strategic elements of sports like rugby and basketball with the tactical complexity of managing multiple objectives simultaneously. Players must think about ball possession, field position, and timing while engaging in full-contact play.

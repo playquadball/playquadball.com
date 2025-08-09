@@ -8,10 +8,10 @@ This guide covers all the equipment needed to play quadball, from mandatory safe
 All players must have the following to participate:
 
 - **Stick**
-  - Typically a PVC pipe, broom handle, or similar cylindrical object
+  - A rigid pole made of plastic, such as a PVC pipe
   - Length: 98-102 cm  
   - Diameter: 25-35 millimeters
-  - Must be held between legs at all times during play
+  - Players must be properly mounted on their stick to participate in play (stick straddled between legs)
 
 - **Mouthguard**
   - Required for all players during gameplay
@@ -32,7 +32,7 @@ All players must have the following to participate:
 
 - **Cleats**
   - Football, rugby, or soccer cleats work best
-  - Metal studs typically not allowed - check local rules
+  - Metal studs only permitted if they meet strict safety requirements (max 21mm length, min 10mm tip diameter, no sharp edges) AND venue gives explicit permission
 
 - **Protective Gear**
   - Knee pads and shin guards (especially for chasers/keepers)
@@ -51,16 +51,16 @@ All players must have the following to participate:
   - Standard volleyball
   - Circumference: 65-67 cm
   - Properly inflated (not too hard, not too soft)
-  - Used by chasers and keepers only
+  - Primarily used by chasers and keepers, though any defending player may carry it back to their keeper after a goal
 
 - **Dodgeballs (3 total)**
   - Rubber playground balls
   - Circumference: 68-70 cm  
   - Must maintain round shape when thrown
-  - Used by beaters only
+  - Thrown by beaters to knock players off stick, but any player can catch a live dodgeball to avoid being knocked off and get the thrower out
 
 - **Flag**
-  - Tennis ball inside a fabric sleeve/sock
+  - Ball (such as tennis ball) with 65-69mm diameter and 55-60g weight, held within fabric sleeve
   - Attached to flag runner's shorts
   - Visible length: 25-30 cm
   - Sought by seekers only
@@ -83,13 +83,13 @@ All players must have the following to participate:
 ## Equipment Rules & Regulations
 
 ### Safety Requirements
-- All equipment must be approved by referees before play
+- All padding, braces, and other non-standard additional equipment must be presented to head referee for approval before each game
 - Penalties for illegal equipment vary based on the violation, ranging from temporary removal from play to carded offenses and possible game ejection
 - Equipment modifications for medical/religious reasons require pre-approval
 
 ### Equipment Checks
 - Conducted before each game by referees
-- Players with non-compliant equipment cannot participate
+- Players cannot enter play with non-compliant equipment and must correct issues immediately; if discovered mid-play, player must leave pitch to fix equipment before returning
 - Equipment discovered illegal during play requires immediate correction
 
 ### Replacement Equipment
@@ -125,7 +125,7 @@ For new players wanting to try quadball:
 - **Inspect sticks** regularly for cracks or damage
 - **Replace mouthguards** if damaged or after illness
 - **Check headbands** for secure attachment
-- **Store balls** properly inflated in dry conditions
+- **Store balls** partially inflated in dry conditions (not fully inflated, not so flat they can be gripped in one hand)
 
 ---
 
