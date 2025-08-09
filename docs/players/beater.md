@@ -55,6 +55,7 @@ This is a critical strategic rule.
 - **Situation:** When one team holds two dodgeballs and the third is on the ground (dead), that loose ball is the "third dodgeball."
 - **The Problem:** The team with two dodgeballs **cannot** touch or interfere with the third dodgeball. This is **Third Dodgeball Interference**. (Rule `5.5.1`)
 - **The Solution (for the team with ZERO balls):**
+
         1.  One of your beaters can raise a closed fist high above their shoulder.
         2.  This beater is now **IMMUNE** to being beat. (Rule `5.5.2`)
         3.  You must go **directly** to retrieve the third dodgeball. You can't engage in other plays. (Rule `5.5.3`)

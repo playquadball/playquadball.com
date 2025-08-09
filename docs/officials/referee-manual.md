@@ -330,6 +330,7 @@ To encourage offensive play, teams are limited in their ability to move the voll
 - **Legal Reset:** Each team gets **ONE** legal reset per offensive drive.
     - **Mechanic:** After the first legal reset, the HR shouts **"RESET USED!"** and swings an arm, palm down, toward the offensive team's hoops.
 - **Illegal Resets:**
+
         1.  **Second Reset:** Using a second reset on the same drive.
         2.  **Illegal Propulsion:** Propelling the ball backward across a line without it being a legitimate pass attempt to a teammate. Simply throwing it backward into space is illegal.
 
