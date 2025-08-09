@@ -32,7 +32,31 @@ mkdocs build
 
 ## Contributing
 
-Found an error or want to improve the content? Please open an issue or submit a pull request.
+We welcome contributions to improve this quadball guide! Here's how you can help:
+
+### Quick Edits
+- **Fix typos or errors**: Use the "Edit this page" button (✏️) on any page to make quick fixes
+- **Small improvements**: Submit changes directly through GitHub's web interface
+
+### Larger Contributions
+1. **Fork** the repository: https://github.com/playquadball/playquadball.com
+2. **Create a branch** for your changes: `git checkout -b improve-content`
+3. **Make your changes** to the markdown files in the `docs/` directory
+4. **Test locally** (optional): Run `uv run mkdocs serve` to preview changes
+5. **Submit a pull request** with a clear description of your improvements
+
+### What We're Looking For
+- **Accuracy improvements** based on official IQA rulebook updates
+- **Clarity enhancements** to help new players understand the sport
+- **Additional examples** or explanations for complex concepts
+- **Translation contributions** (contact us first)
+
+### Reporting Issues
+- **Found an error?** Open an [issue](https://github.com/playquadball/playquadball.com/issues)
+- **Have a suggestion?** Start a [discussion](https://github.com/playquadball/playquadball.com/discussions)
+- **Rule clarification needed?** Reference the [official IQA rulebook](https://iqasport.org)
+
+All contributions must follow our [CC BY-NC 4.0 license](#license) and maintain the educational, non-commercial nature of this resource.
 
 ## License
 

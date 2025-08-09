@@ -1,7 +1,7 @@
 site_name: Quadball Introduction
 site_description: Your complete guide to understanding and playing quadball
 site_url: https://playquadball.com
-repo_url: https://github.com/YOUR_GITHUB_USERNAME/playquadball.com
+repo_url: https://github.com/playquadball/playquadball.com
 edit_uri: edit/main/docs/
 site_author: playquadball.com
 
@@ -70,7 +70,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername/playquadball.com
+      link: https://github.com/playquadball/playquadball.com
     - icon: fontawesome/solid/globe
       link: https://iqasport.org
       name: International Quadball Association
