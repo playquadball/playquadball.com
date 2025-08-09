@@ -56,6 +56,12 @@ nav:
 plugins:
   - search
   - git-revision-date-localized
+  - pdf-export:
+      verbose: true
+      media_type: print
+      enabled_if_env: ENABLE_PDF_EXPORT
+      combined: true
+      combined_output_path: pdf/quadball-complete-guide.pdf
 
 markdown_extensions:
   - admonition
