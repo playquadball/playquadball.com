@@ -159,7 +159,7 @@ graph TD
     D -- No --> E[Play continues. "Missed call."];
     D -- Yes --> F[Official throws flag/yells. HR blows whistle to stop play.];
     F --> G[Identify the fouling player(s).];
-    G --> H[Issue a BlueCard for False Start (`3.2.2.E`)];
+    G --> H[Issue a Blue Card for False Start];
     H --> I[Send player to penalty box. Team plays down one.];
     I --> J[Reset all players and balls and restart the entire Sticks Up procedure.];
 ```
@@ -507,11 +507,11 @@ When a "third dodgeball" situation exists, the team with zero dodgeballs can cla
 ```mermaid
 graph TD
     A[Is there a Third Dodgeball situation?] --> B{Does a beater from the team with 0 balls raise a closed fist?};
-    A -- No --> C[Claim is Invalid. **Blue Card** (`5.5.2.B`)];
+    A -- No --> C[Claim is Invalid - Blue Card];
     B -- No --> D[No immunity. Play continues.];
     B -- Yes --> E[Beater is IMMUNE.];
     E --> F{Does the immune beater proceed directly to the third dodgeball?};
-    F -- No --> G[**Immunity Violation (Blue Card)** (`5.5.3.A`)];
+    F -- No --> G[Immunity Violation - Blue Card];
     F -- Yes --> H{Do they pick up the ball?};
     H -- No --> H;
     H -- Yes --> I[Immunity ends. Player is now a normal beater.];
@@ -645,8 +645,8 @@ Referees must be able to instantly classify the type of contact they see to appl
 graph TD
     A[Player A initiates contact with Player B] --> B{Does Player B have the volleyball?};
     B -- No --> C{Is Player A a Beater?};
-    C -- Yes --> D["Illegal Contact (Beaters can't charge Chasers without a ball) -> Standard Contact Penalty"];
-    C -- No --> E["Charge by Player A -> Standard Contact Penalty (`6.2.3.B`)"];
+    C -- Yes --> D["Illegal Contact - Beaters cannot charge Chasers without a ball"];
+    C -- No --> E["Charge by Player A - Standard Contact Penalty"];
     B -- Yes --> F{How is contact made?};
     F -- "One Extended Arm" --> G[Push];
     F -- "Body (Torso/Shoulder)" --> H[Charge/Body Block];
@@ -655,15 +655,15 @@ graph TD
     subgraph Push Analysis
         G --> J{Is contact from the front?};
         J -- Yes --> K[Legal Push];
-        J -- No --> L["Illegal Contact from Behind -> Standard Contact Penalty (`6.1.9`)"];
+        J -- No --> L["Illegal Contact from Behind - Standard Contact Penalty"];
     end
 
     subgraph Charge/Block Analysis
         H --> M{Is contact from the front?};
         M -- Yes --> N{Is it forceful (Charge) or absorbing (Block)?};
         N -- "Forceful Charge" --> O[Legal Charge (if not excessive)];
-        N -- "Absorbing Block" --> P[Legal Body Block (`6.2.1`)];
-        M -- No --> Q["Illegal Contact from Behind -> Standard Contact Penalty"];
+        N -- "Absorbing Block" --> P[Legal Body Block];
+        M -- No --> Q["Illegal Contact from Behind - Standard Contact Penalty"];
     end
 
     subgraph Wrap Analysis
@@ -671,7 +671,7 @@ graph TD
         R -- Yes --> S{Is the player brought to ground?};
         S -- Yes --> T[Tackle - Legal];
         S -- No --> U[Wrap - Legal];
-        R -- No --> V["Illegal Contact from Behind -> Standard Contact Penalty"];
+        R -- No --> V["Illegal Contact from Behind - Standard Contact Penalty"];
     end
 
 ```
@@ -891,10 +891,10 @@ graph TD
     B -- No --> C[Legal - waits for release];
     B -- Yes --> D{Did they mistakenly believe their time was up?};
     D -- Yes --> E{Did they interact with play?};
-    E -- No --> F[No penalty. Return to box. Time missed does not count. (`9.4.3.C.i`)];
-    E -- Yes --> G[Penalty for illegally interacting with play while off stick (`5.3.2`) - Blue Card];
+    E -- No --> F[No penalty - Return to box - Time missed does not count];
+    E -- Yes --> G[Penalty for illegally interacting with play while off stick - Blue Card];
     D -- No --> H{Did they intentionally leave early?};
-    H --> I[egregious Unsportsmanlike Conduct, `Red Card`];
+    H --> I[Egregious Unsportsmanlike Conduct - Red Card];
 ```
 
 **Referee Tip:** Before a game, the HR should have a brief conversation with the Timekeeper to ensure they understand the release procedures, especially how goals affect penalty times. A mistake here is a direct administrative error that can have a huge impact on the game.
