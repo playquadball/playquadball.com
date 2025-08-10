@@ -1,6 +1,13 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+  <!-- Favicon and Icons -->
+  <link rel="icon" href="{{ config.site_url }}assets/images/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="{{ config.site_url }}assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ config.site_url }}assets/images/icon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ config.site_url }}assets/images/icon-512.png">
+  <link rel="manifest" href="{{ config.site_url }}manifest.json">
+  
   <!-- SEO Meta Tags -->
   <meta name="robots" content="index, follow">
   <meta name="language" content="English">

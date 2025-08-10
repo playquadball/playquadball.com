@@ -8,6 +8,7 @@ site_author: playquadball.com
 theme:
   name: material
   custom_dir: overrides
+  favicon: assets/images/favicon.ico
   icon:
     logo: material/volleyball
   palette:
@@ -32,7 +33,6 @@ theme:
     - content.code.copy
 
 nav:
-  - Home: index.md
   - Getting Started:
     - What is Quadball?: getting-started/what-is-quadball.md
     - Basic Rules: getting-started/basic-rules.md

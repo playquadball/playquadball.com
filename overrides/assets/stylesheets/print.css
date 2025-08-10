@@ -3,8 +3,26 @@
 @media print {
   /* Page setup */
   @page {
-    margin: 1.5cm 2cm;
+    margin: 1.5cm 2cm 2.5cm 2cm;
     size: A4 portrait;
+    @top-left {
+      content: "playquadball.com";
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 10pt;
+      color: #666;
+    }
+    @top-right {
+      content: "Page " counter(page) " of " counter(pages);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 10pt;
+      color: #666;
+    }
+    @bottom-center {
+      content: "Licensed under CC BY-NC 4.0 - https://creativecommons.org/licenses/by-nc/4.0/";
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 9pt;
+      color: #666;
+    }
   }
 
   @page :first {
@@ -132,6 +150,8 @@
     border-collapse: collapse !important;
     margin: 12pt 0 !important;
     page-break-inside: avoid !important;
+    page-break-before: auto !important;
+    page-break-after: auto !important;
     font-size: 10pt !important;
   }
 
@@ -180,6 +200,8 @@
   /* Mermaid diagrams */
   .mermaid {
     page-break-inside: avoid !important;
+    page-break-before: auto !important;
+    page-break-after: auto !important;
     margin: 12pt 0 !important;
     text-align: center !important;
   }
@@ -189,6 +211,7 @@
     height: auto !important;
     background: white !important;
     border: 1px solid #ddd !important;
+    page-break-inside: avoid !important;
   }
 
   /* Admonitions/Callouts */
