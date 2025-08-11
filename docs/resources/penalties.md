@@ -6,6 +6,7 @@ Quick reference guide for the most common penalties in quadball.
 
 ### Back-to-Hoops
 **Duration:** None (procedural reset)
+
 **Effect:** Player must return to hoops and reset before rejoining play
 
 Common situations:
@@ -15,8 +16,9 @@ Common situations:
 - Immunity violations
 - Illegal pursuit of flag
 
-### Blue Card  
+### Blue Card
 **Duration:** 1 minute in penalty box
+
 **Effect:** Team plays short-handed
 
 Common situations:
@@ -28,7 +30,8 @@ Common situations:
 - Illegal circumvention
 
 ### Yellow Card
-**Duration:** 1 minute in penalty box  
+**Duration:** 1 minute in penalty box
+
 **Effect:** Team plays short-handed
 
 Common situations:
@@ -41,6 +44,7 @@ Common situations:
 
 ### Red Card
 **Duration:** Ejection from game
+
 **Effect:** Permanent player removal
 
 Common situations:
