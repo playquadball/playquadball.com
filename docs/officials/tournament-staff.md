@@ -4,7 +4,7 @@
 
 ## Page 1: Tournament Setup & Equipment Standards
 
-*This guide outlines responsibilities and authority falling under the Tournament Director (TD) and event staff, distinct from on-pitch referee jurisdiction.*
+*This guide outlines responsibilities and authority falling under the Event Director (ED) and event staff, distinct from on-pitch referee jurisdiction.*
 
 ### **1. Field Setup & Verification**
 
@@ -84,7 +84,7 @@ While referees manage game-level safety, the TD holds ultimate authority over ev
 **Dispute Channels:**
 
 - **On-Pitch Rule Application:** Player -> Speaking Captain -> Head Referee (Decision is final).
-- **Event Policy, Eligibility, or Off-Pitch Conduct:** Player/Team Leadership -> Tournament Director.
+- **Event Policy, Eligibility, or Off-Pitch Conduct:** Player/Team Leadership -> Event Director.
 
 ---
 
@@ -98,7 +98,7 @@ While referees manage game-level safety, the TD holds ultimate authority over ev
 
 ### **7. Event Logistics & Discretionary Authority**
 
-The following logistical decisions fall under the authority of the Tournament Director:
+The following logistical decisions fall under the authority of the Event Director:
 
 - **Benches & Coaching Areas:** TDs can elect to expand the size of team benches for all fields at the event. (Rule `2.1.8.A`)
 - **Staff Access:** The TD determines which event staff members are given access to the player area. (Rule `2.1.12.C.iii`)

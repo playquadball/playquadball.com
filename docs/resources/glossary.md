@@ -98,7 +98,9 @@ Essential terms and definitions for understanding quadball.
 
 **PB** - Penalty Box
 
-**ED** - Event Director
+**ED** - Event Director, also known as Tournament Director
+
+**TD** - Tournament Director
 
 ## Timing Terms
 

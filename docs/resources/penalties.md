@@ -84,7 +84,7 @@ Common situations:
 - **During game:** Only speaking captain may discuss calls with Head Referee
 - **After explanation:** Head Referee's decision is final
 - **Post-game:** Rules clarifications only, not judgment calls
-- **Tournament disputes:** Escalated to Tournament Director for non-officiating matters
+- **Tournament disputes:** Escalated to Event Director for non-officiating matters
 
 ---
 
