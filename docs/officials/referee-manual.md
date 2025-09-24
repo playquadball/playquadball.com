@@ -153,15 +153,15 @@ A clean game start is critical. The "Sticks Up" procedure (`Rule 3.2.2`) must be
 
 ```mermaid
 graph TD
-    A[HR calls "Ready"] --> B{"Is there movement before 'Sticks Up'?"};
-    B -- No --> C[Game Starts Legally];
+    A["HR calls 'Ready'"] --> B{"Is there movement before 'Sticks Up'?"};
+    B -- No --> C["Game Starts Legally"];
     B -- Yes --> D{"Did an official see it?"};
-    D -- No --> E[Play continues. "Missed call."];
-    D -- Yes --> F[Official throws flag/yells. HR blows whistle to stop play.];
-    F --> G[Identify the fouling player(s).];
-    G --> H[Issue a Blue Card for False Start];
-    H --> I[Send player to penalty box. Team plays down one.];
-    I --> J[Reset all players and balls and restart the entire Sticks Up procedure.];
+    D -- No --> E["Play continues. 'Missed call'."];
+    D -- Yes --> F["Official throws flag/yells. HR blows whistle to stop play."];
+    F --> G["Identify the fouling player(s)."];
+    G --> H["Issue a Blue Card for False Start"];
+    H --> I["Send player to penalty box. Team plays down one."];
+    I --> J["Reset all players and balls and restart the entire Sticks Up procedure."];
 ```
 
 #### **Managing Stoppages: Maintaining Control**
