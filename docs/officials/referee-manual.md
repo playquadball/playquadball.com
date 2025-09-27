@@ -22,7 +22,7 @@ Every decision a referee makes should be guided by these core principles:
 
 1.  **Safety First:** The physical well-being of all participants—players, officials, and staff—is our paramount concern. Proactive officiating that prevents dangerous situations is the hallmark of a great referee.
 2.  **Fairness and Impartiality:** We must apply the rules consistently to both teams, without bias or prejudice. Every call should be based on the rules and your observation, not on reputation, score, or external pressure.
-3.  **Game Control and Flow:** An effective referee manages the game's tempo, controls player conduct, and minimizes unnecessary stoppages. The goal is to facilitate a competitive, fluid, and safe contest.
+3.  **Game Control and Flow:** An effective referee minimizes unnecessary stoppages and keeps their control of authority on pitch at all times. The goal is to facilitate a competitive, fluid, and safe play.
 4.  **Knowledge and Application:** A comprehensive understanding of the rules is non-negotiable. This includes not just the "what" but the "why" behind each rule, enabling correct application in complex and edge-case scenarios.
 5.  **Professionalism and Communication:** Clear, concise, and respectful communication with players, captains, and fellow officials is essential. Our conduct, on and off the pitch, must be professional and command respect.
 
@@ -30,10 +30,10 @@ Every decision a referee makes should be guided by these core principles:
 
 This document is structured to build your officiating knowledge from the ground up.
 
-- **Part 1: Pre-Game Preparations:** Covers everything you must do before the first "Sticks Up."
+- **Part 1: Pre-Game Preparations:** Covers everything you must do before the first whistle.
 - **Part 2: Core Game Mechanics:** Details the fundamental procedures that form the backbone of game flow.
 - **Part 3: Position-Specific Officiating:** Dives into the unique rules and interactions for each player position.
-- **Part 4: Contact & Fouls:** Provides a deep dive into the most complex and critical aspect of officiating—physicality.
+- **Part 4: Contact & Fouls:** Provides a deep dive into the most complex and critical aspect of officiating physical plays.
 - **Part 5: Penalties & Advanced Procedures:** Explains the penalty system and advanced game management tools like advantage.
 - **Part 6: Post-Game & Appendix:** Outlines your final duties and provides quick-reference materials.
 
@@ -153,15 +153,15 @@ A clean game start is critical. The "Sticks Up" procedure (`Rule 3.2.2`) must be
 
 ```mermaid
 graph TD
-    A[HR calls "Ready"] --> B{"Is there movement before 'Sticks Up'?"};
-    B -- No --> C[Game Starts Legally];
+    A["HR calls 'Ready'"] --> B{"Is there movement before 'Sticks Up'?"};
+    B -- No --> C["Game Starts Legally"];
     B -- Yes --> D{"Did an official see it?"};
-    D -- No --> E[Play continues. "Missed call."];
-    D -- Yes --> F[Official throws flag/yells. HR blows whistle to stop play.];
-    F --> G[Identify the fouling player(s).];
-    G --> H[Issue a Blue Card for False Start];
-    H --> I[Send player to penalty box. Team plays down one.];
-    I --> J[Reset all players and balls and restart the entire Sticks Up procedure.];
+    D -- No --> E["Play continues. 'Missed call'."];
+    D -- Yes --> F["Official throws flag/yells. HR blows whistle to stop play."];
+    F --> G["Identify the fouling player(s)."];
+    G --> H["Issue a Blue Card for False Start"];
+    H --> I["Send player to penalty box. Team plays down one."];
+    I --> J["Reset all players and balls and restart the entire Sticks Up procedure."];
 ```
 
 #### **Managing Stoppages: Maintaining Control**
